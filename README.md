@@ -121,6 +121,9 @@ AUC Score:
     - Additionally, hyperparameter tuning of XGBoost took approximately one hour, which limited our experimentation cycle.
 
 ## Streamlit app
+
+![Demo of the Streamlit App](streamlit_app/demo_streamlit_app.gif)
+
 We have developed a user-friendly Streamlit application to help the business understand the predictive capabilities of the model.
 1.  Clone the repository to your local machine.
 2.  Install the required dependencies using `pip install -r requirements.txt`.
