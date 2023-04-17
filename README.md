@@ -15,6 +15,7 @@ Table of Contents
 ## Introduction
 
 This is a machine learning project that aims to predict whether a customer will default on a loan within 60 days of disbursement. The project uses historical customer financial data to train and evaluate several machine learning models and select the best-performing one for deployment.
+[Here is the detailed presentation of the project](./Project%20presentation.pdf)
 
 ## Project Structure
 
