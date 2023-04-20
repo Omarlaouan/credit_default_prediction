@@ -28,7 +28,6 @@ credit_default_prediction/
 │   ├── processed
 │   │   └── test_with_pred.csv
 │   └── raw
-│       ├── simulations_history.csv
 │       ├── test_topred.csv
 │       └── train_topred.csv
 ├── models
