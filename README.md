@@ -20,7 +20,7 @@ This is a machine learning project that aims to predict whether a customer will 
 ## Project Structure
 
 The project has the following structure:
-credit_default_prediction/
+
 ```bash
 .
 ├── README.md
